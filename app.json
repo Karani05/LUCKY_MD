@@ -28,7 +28,7 @@
   "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 	  "AUTO_SAVE_CONTACTS":
@@ -58,7 +58,7 @@
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }, 
 	  "AUTO_DOWNLOAD_STATUS":
