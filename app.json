@@ -107,7 +107,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "description":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0gwTHJ0L0FENzRPeDlsakFjU3FWd0t5bUFIOHlqemd5VHI5QWRZMlRuMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibVd1UWUzbTdKT2Q5QUl0bkpacFMrVFlNSG5uTWl2UFBrNm5ZeXcrNE9Bcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ3SWV2amhaWUQ2QTJMZXNrK3ZUV1VFRnJ0dUNadEo2KyswWnNtUEVrVFhRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ4UUhIZVpBcmZWUVQ3SDg2cy9JekVhSkpJUGxEa29pQTRlelptSVJIWEZRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IktMbE95T3Z4RXRoS0hWMi85Y016QyswL2ZjZGFBTkkvYlc4QXFoK2RIMFE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImU1L3RVUVJ5OTk1eDE4aHdDTjJCc2dUOEloWFFPNzVsSjlldzJWdEJ1MzQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUl6bVFuRll6dm9COGhwVkpUeFdXb0FKRkppVkRTT095SXkwQWtFeDIyRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWVZPSFNncnVCV2NPL2pMZ3VXZkpkb05DZmlMYUQ3VDhDNnQzcmFWV21qOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjFhZ0J2QjdMcUNuVjBrOWo3NjI1Mks1MjFkSkRRM2lwRThUS0dUMzFUU2pzMnV1Ky9EQkw1dG5jR2V4NWRRekpoaG5ZTnVacm9NanpwS0NMVElnTmd3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjIyLCJhZHZTZWNyZXRLZXkiOiIyd3RHUmpBMEFhRE85aWpxekozYTJxclRvb3kxTlUwVU01NVlLbHFsNTdZPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NDExMjEyODcxNUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJDQjIwQkM3MTM4NjA3REIyNzJDNkE2RTAzNEFGQUE0MiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQwNjEyNTc1fV0sIm5leHRQcmVLZXlJZCI6MzUsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozNSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJmSjdweDNGb1JnU1Mya3JtR0JNWXpnIiwicGhvbmVJZCI6IjAxZTFkMDliLTFkMTktNDFiZS04ODdhLWNjNTJkMWE3OTNhZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFUmhBSEhEbDArVHRwbGl2NVdKbE1MamN3eEk9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS1QxcS9sTHBCa3RBeWg4YThCZ0MrUkFFQ01vPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkU2SzY4VFk2IiwibWUiOnsiaWQiOiIyNTQxMTIxMjg3MTU6N0BzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTzM0Z29jQ0VNL0gvcjBHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiVmVySUV3NGNQWkdHZmJHanozUk9CQmlQaERadW9abW5FRUZ4Z2tvSXB5ST0iLCJhY2NvdW50U2lnbmF0dXJlIjoiTVlzNTI2VjFnbGZpYzhia0lJKzlxcDdUSldCaHJhemZJSFp0b2NCODVFRVlhb2pJMjk3Q1RHeUc2cTdRZFZZditiNUJEREk0elN3YllhcnQvUmx5Q3c9PSIsImRldmljZVNpZ25hdHVyZSI6ImxJRFNSMjMvd1VBUkNFc1crdXlqbmdONENiL0UrV0ZKZU5xRm5wNmRwMHFES1JuaHZUSXF0b1BtVndRM1JZVHpTek1QdTd1dktzbzE2dThQYW91YmlnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0MTEyMTI4NzE1OjdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVlhxeUJNT0hEMlJobjJ4bzg5MFRnUVlqNFEyYnFHWnB4QkJjWUpLQ0tjaSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0MDYxMjU3MiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFKaE4ifQ==",   
       "value":"",
       "required":true
       
@@ -124,7 +124,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255752593977"
+    "value": "254112128715"
   },
     "WARN_COUNT":
   {
@@ -146,13 +146,13 @@
   },
 	    "AUTO_READ":{
     "description":"Enter yes for auto read messages.",
-    "value":"no",
-    "required": false
+    "value":"yes",
+    "required": true
     },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
-        "required": false
+    "value": "yes",
+        "required": true
   }
   },
 
